@@ -1,0 +1,2 @@
+pdftk 06[1-9]*.pdf cat output 06\ потолки.pdf
+rm 06[1-9]*

@@ -1,2 +1,4 @@
+pdftk 01[1-9]*.pdf cat output 01\ структурки.pdf
+rm 01[1-9]*
 pdftk 02[1-9]*.pdf cat output 02\ планы.pdf
 rm 02[1-9]*
