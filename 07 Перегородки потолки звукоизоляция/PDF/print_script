@@ -1,2 +1,4 @@
 pdftk 06[1-9]*.pdf cat output 06\ потолки.pdf
 rm 06[1-9]*
+pdftk 07*.pdf cat output 07\ звукоизоляция.pdf
+rm 07*
