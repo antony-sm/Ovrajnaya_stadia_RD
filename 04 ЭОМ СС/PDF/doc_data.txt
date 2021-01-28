@@ -1,0 +1,68 @@
+InfoBegin
+InfoKey: ModDate
+InfoValue: D:20210116180323+03&apos;00&apos;
+InfoBegin
+InfoKey: Creator
+InfoValue: pdftk-java 3.0.9
+InfoBegin
+InfoKey: CreationDate
+InfoValue: D:20210116180323+03&apos;00&apos;
+InfoBegin
+InfoKey: Producer
+InfoValue: itext-paulo-155 (itextpdf.sf.net-lowagie.com)
+PdfID0: d7bbeff007b99020d5ba54449c6ededf
+PdfID1: c17c8e1fe22028d72438254aeab3c732
+NumberOfPages: 9
+BookmarkBegin
+BookmarkTitle: &#1051;&#1080;&#1089;&#1090;&#1099; &#1080; &#1074;&#1080;&#1076;&#1099;
+BookmarkLevel: 1
+BookmarkPageNumber: 0
+BookmarkBegin
+BookmarkTitle: &#1072;&#1074;&#1090;&#1086;&#1084; &#1086;&#1073;&#1097;&#1072;&#1103;
+BookmarkLevel: 2
+BookmarkPageNumber: 6
+PageMediaBegin
+PageMediaNumber: 1
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 2
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 3
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 4
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 5
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 6
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 7
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 8
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
+PageMediaBegin
+PageMediaNumber: 9
+PageMediaRotation: 0
+PageMediaRect: 0 0 2,384 3,370
+PageMediaDimensions: 2,384 3,370
